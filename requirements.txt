@@ -1,0 +1,10 @@
+PyQt6
+PyQt6-Qt6
+PyQt6-Charts
+transformers
+torch
+accelerate
+psutil
+pynvml
+regex
+python-dotenv
