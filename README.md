@@ -1,4 +1,4 @@
-# 🤖 AI网络小说角色描述词提取系统
+# 🤖 AI网络小说角色描述词提取系统（开发方东方数学）
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![PyQt6](https://img.shields.io/badge/PyQt6-GUI-orange.svg)](https://www.riverbankcomputing.com/software/pyqt/)
