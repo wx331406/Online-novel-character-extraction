@@ -1,5 +1,3 @@
-# AI-
-专门用于提取大型网络小说角色名称和描述词
 # 🤖 AI网络小说角色描述词提取系统
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/)
@@ -35,8 +33,8 @@
 - **操作系统**：Windows 10/11 (64位)
 - **Python**：3.12 或更高版本
 - **硬件要求**：
-  - **最低配置**：8GB RAM，4GB显存显卡
-  - **推荐配置**：16GB RAM，8GB显存显卡（NVIDIA GTX 1060以上）
+  - **最低配置**：16GB RAM，4GB显存显卡
+  - **推荐配置**：24GB RAM
   - **存储空间**：至少10GB可用空间（包含模型文件）
 
 ### 安装步骤
